@@ -1,9 +1,13 @@
-Primary_Key,Feature_1,Feature_2,Feature_3
-1,fsdf,hff,adasd
-2,sdf,fghfgh,fsdfsd
-3,gfd,asdas,sdfsdf
-4,dfgdg,adasd,sdfsdfsdf
-1,Fsdf213123,Hff2342,Adasd64564
-2,Sdf4234,Fghfgh234,Fsdfsd564
-3,Gfd4324,Asdas234,Sdfsdf546
-4,Dfgdg234,Adasd234,Sdfsdfsdf45646
+Product,Category,Price,Availability
+Shovel,Digging Tools,15,54
+Pickaxe,Digging Tools,22,79
+Hedge Trimmer,Garden Tools,179,6
+Lawn Mower,Garden Tools,399,8
+Apple,Fruit,1,300
+Peach,Fruit,2,400
+Pineapple,Fruit,4,100
+Kiwi,Fruit,1,200
+Lamb,Meat,22,25
+Chicken,Meat,12,25
+Beef,Meat,26,30
+Turkey,Meat,16,5

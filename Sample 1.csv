@@ -1,13 +1,13 @@
-Primary_Key,Feature_5,Feature_6,Feature_7
-1,fsdf,hff,adasd
-2,sdf,fghfgh,fsdfsd
-3,gfd,asdas,sdfsdf
-4,dfgdg,adasd,sdfsdfsdf
-1,fsdf,hff,adasd
-2,sdf,fghfgh,fsdfsd
-3,gfd,asdas,sdfsdf
-4,dfgdg,adasd,sdfsdfsdf
-1,fsdf,hff,adasd
-2,sdf,fghfgh,fsdfsd
-3,gfd,asdas,sdfsdf
-4,dfgdg,adasd,sdfsdfsdf
+Financials,Revenue,Storage Costs,Waste
+Shovel,1000,5,1
+Pickaxe,2000,10,0
+Hedge Trimmer,5000,25,0
+Lawn Mower,1200,50,0
+Apple,5000,10,20
+Peach,5675,20,10
+Pineapple,3456,10,2
+Kiwi,3456,10,8
+Lamb,4000,30,20
+Chicken,5000,40,30
+Beef,6000,20,40
+Turkey,7000,20,80
